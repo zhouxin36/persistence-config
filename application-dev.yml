@@ -1,5 +1,5 @@
 per: deivef
-spring:
-  redis:
-    host: 192.168.176.128
-    port: 6379
+#spring:
+ # redis:
+ #   host: 192.168.176.128
+ #   port: 6379

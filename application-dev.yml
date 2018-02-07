@@ -1,5 +1,5 @@
 per: deivef
-file_base_url: http://localhost:10000/graducation/images
+file_base_url: images/
 #spring:
  # redis:
  #   host: 192.168.176.128

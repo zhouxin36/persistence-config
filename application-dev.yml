@@ -7,7 +7,7 @@ db:
   ##单个从库中从表数量1
   tableNum: 2
   ##主表名List
-  tableNames: user1,admin,category,coupon,deposit,favorite,feedback,footmark,forder,mall_activity,pic,product,product_comment,refund,safe_question,sorder,user_address,home,message
+  tableNames: user12,admin,category,coupon,deposit,favorite,feedback,footmark,forder,mall_activity,pic,product,product_comment,refund,safe_question,sorder,user_address,home,message
   ##主库名，从库名为主库名+0~datasource_num
   dataName: db
   ##分表键

@@ -1,5 +1,5 @@
-#server:
-#  port: 8093
+server:
+  port: 8093
 mybatis:
   mapper-locations: classpath:mapper/*.xml
   config-location: classpath:mybatis-config.xml
